@@ -1,7 +1,7 @@
 # StreamlitDataApp
 A basic data Apps for analysing COVID19 data
 
-##FrameWork used 
+## FrameWork used 
 Streamlit
 
-##DEMO
+## DEMO
