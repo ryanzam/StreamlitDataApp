@@ -31,7 +31,7 @@ chart_data = pd.DataFrame({
 	  'todayRecovered': df['todayRecovered'],
 	  'active': df['active'],
 	  'population': df['population'],
-})
+}, index=[0])
 
 
 
